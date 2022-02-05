@@ -2,6 +2,5 @@ fbprophet==0.7.1
 pytrends==4.7.3
 streamlit==1.1.0
 pandas==1.2.5
-matplotlib==3.5.0
-openpyxl==3.0.7 
+matplotlib==3.5.0 
 pystan==2.19.1.1
